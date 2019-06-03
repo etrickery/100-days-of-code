@@ -1,30 +1,31 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 0: June 1st, 2019 Saturday
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Started the process over
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** I feel like I am going 2000 different directions, but getting somewhere. Teaching myself Kotlin.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** My Kotlin repository. It has not much of anything in it. 
 
 
-### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+### Day 1: June 2nd, 2019 Sunday
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Today's Progress**: Signed up for codewars and spent several hours there. Realized I am SOOOO rusty at Java, and there is a ton of stuff I don't know that are common programming things. 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts**: I got stuck on a bug in a program, where string.charAt(x) would produce one result, and a variable (variable = string.charAt(x) would give the value 51. So is 51 the meaning of life or something? WTF... anyway, still haven't figured it out but 3 hours in, I got to get back to work.
+
+**Link(s) to work**: none
+
+
+
+### Day 2: 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
